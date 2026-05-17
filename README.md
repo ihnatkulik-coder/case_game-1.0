@@ -1,2 +1,2 @@
-# case_game-1.0
-my Forst game. 
+# case_game
+my First game. 
